@@ -9,7 +9,7 @@ Feel free to fork this project and use it as a quick way to get started playing 
 To run the script:
 
 1. Clone this repo.
-1. Open a terminal in the `cld-vidoe-quickstart` folder.
+1. Open a terminal in the `cld-video-quickstart` folder.
 1. Set your Cloudinary API Environment variable:
    ```
    export CLOUDINARY_URL=cloudinary://<api_key>:<api_secret>@<cloud_name>
